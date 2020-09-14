@@ -1,0 +1,25 @@
+.nav-padding {
+    background-color: lightslategrey;
+    padding: 0px;
+    padding-left: 8%;
+    padding-right: 5%;
+    color: cadetblue;
+}
+.nav-name {
+    background-color: lightslategrey;
+}
+.navbar-collapse {
+    background-color: lightslategrey;
+}
+.jumbotron {
+    background-color: darkgrey;
+}
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.display-4 {
+    padding-left: 5px;
+    color: blue;
+}
+
